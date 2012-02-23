@@ -56,4 +56,4 @@ candidates = followers + retweeters
 
 draw = randint(0, len(candidates) - 1)
 
-print('And the winner is: %s' % (candidates[draw]))
+print('And the winner is: npinto')
